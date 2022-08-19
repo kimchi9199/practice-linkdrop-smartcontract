@@ -20,3 +20,4 @@ overflow-checks = true
 [dependencies]
 borsh = "0.9.3"
 near-sdk = "4.0.0"
+wasm-bindgen = "0.2"
